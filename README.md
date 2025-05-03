@@ -1,6 +1,6 @@
 # Traffic-Accident-Analysis-and-Prediction
 # Enhancing Road Safety with AI-driven Traffic Accident Analysis and Prediction
-# Author: PRASANNA K
+# Author: SHAHABUDEEN NS
 # Date: 03.05.2025
 # Description: This project analyzes traffic accident data and builds a predictive model to classify accident severity.
 
